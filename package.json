@@ -1,0 +1,11 @@
+{
+  "name": "plum",
+  "version": "0.0.0",
+  "description": "remote sync layer",
+  "main": "plum.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Simon Højberg <r.hackr@gmail.com> (http://icreateui.com/)",
+  "license": "MIT"
+}
